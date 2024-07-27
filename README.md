@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @Umme-Zaiba
+  
+- struck at resolving conflicts
 
 - [![Image of https://github.com/Umme-Zaiba/my-views-counter](https://github.com/Umme-Zaiba/my-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/Umme-Zaiba/my-views-counter)
 <!---
