@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Umme-Zaiba
 - Hey geeks, trying to go beyond just frameworking.
+- Need to work here too, been working in az devops recently
   
 
 
