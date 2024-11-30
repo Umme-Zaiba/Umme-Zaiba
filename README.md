@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Umme-Zaiba
 - Hey geeks, trying to go beyond just frameworking.
-- Need to work here, been working in az devops recently
+- git -> az devops recently
 - Life confined in tags </>
+- sluggish
   
 
 
