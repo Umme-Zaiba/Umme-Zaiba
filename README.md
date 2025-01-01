@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Umme-Zaiba
 - Hey geeks, trying to go beyond just frameworking.
-- git -> az devops recently
+- github -> az devops recently
 - Life confined in tags </>
 - sluggish
   
