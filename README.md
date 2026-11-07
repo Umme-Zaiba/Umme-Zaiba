@@ -9,11 +9,10 @@ Software developer at **iVoyant** · Coding || Photography 📸
 
 ## 🧭 What I do
 
-- **Enterprise workflow and case-management software.** I build React + TypeScript front ends on Java (Spring Boot) back ends with PostgreSQL: configurable form builders (drag and drop), approval workflows, routing rules, guided product tours and data-protection UI.
-- **Azure and identity.** Microsoft Entra ID sign-in (MSAL), Azure RBAC access provisioning with approvals, Azure Key Vault, Azure DevOps request flows, and Microsoft Teams notifications through Azure Bot Service and webhooks.
-- **Product thinking.** Turning messy requests into simple flows: inquiry-to-case conversion, role-aware access requests, labels instead of raw IDs, mobile-friendly screens.
-- **AI-assisted features.** Inline suggestions and smarter defaults inside real product screens.
-- **Always learning outside work.** Next.js, Flutter, Python and machine learning projects.
+- Full-stack development on enterprise web applications, with React and TypeScript on the front end and Java and Spring Boot on the back end.
+- Cloud and identity work on Azure.
+- Working on products end to end, from idea to release.
+- Learning outside work: Next.js, Flutter, Python and machine learning.
 
 ## 🛠️ Tech stack
 
@@ -40,11 +39,11 @@ Software developer at **iVoyant** · Coding || Photography 📸
 
 | Area | What I've worked on |
 |---|---|
-| **Backend** | Java and Spring Boot services, Maven builds, PostgreSQL schemas and migrations, JWT/session handling, cross-service notifications |
-| **Frontend** | React with TypeScript, Ant Design, Vite and pnpm builds, drag-and-drop builders, role-aware dynamic forms |
-| **Cloud and DevOps** | Azure Entra ID, Azure RBAC, Key Vault, Azure Bot Service, Azure DevOps, API gateways |
-| **Integrations** | Microsoft Teams adaptive cards and bots, email and in-app notification templates |
-| **Learning and side projects** | JavaScript and React practice, Next.js and TypeScript, Flutter UI, Python data work and deep learning |
+| **Backend** | Java, Spring Boot, PostgreSQL, REST APIs |
+| **Frontend** | React, TypeScript, Ant Design |
+| **Cloud and DevOps** | Azure, Azure DevOps |
+| **Integrations** | Microsoft Teams and notifications |
+| **Learning and side projects** | JavaScript, Next.js, Flutter, Python, deep learning |
 
 ## ⭐ Projects I'm proud of
 
@@ -58,7 +57,7 @@ Software developer at **iVoyant** · Coding || Photography 📸
 
 ## 🌱 Right now
 
-Going deeper on backend design (fewer service hops, cleaner contracts), Azure automation, and building AI-assisted experiences that actually save people clicks.
+Getting stronger at backend design and Azure, and building smarter product experiences.
 
 ## 📫 Say hi
 
