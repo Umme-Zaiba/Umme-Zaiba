@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Umme-Zaiba
 - Hey geeks, trying to go beyond just frameworking.
-- github -> az devops recently
+- ADO contaminated
 - Life confined in tags </>
 - sluggish
   
